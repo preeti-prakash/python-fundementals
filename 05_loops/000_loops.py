@@ -5,7 +5,7 @@
 for i in range(1,10):
     print(i)                #prints numbers from 1 to 9
     
-help(range) #getting help for range function
+# help(range) #getting help for range function
 
 # Indentation
 # for i in range(1,10):

@@ -3,7 +3,8 @@
 # CREATING AND RETURNING A TUPLE
 def create_my_tuple():
     return 'preeti', 1996, 'India'
-    
+
+
 my_tuple = create_my_tuple()
 print(my_tuple)
 print(type(my_tuple))
